@@ -16,3 +16,6 @@ https://github.com/type-challenges/type-challenges/issues/4655
 
 ### 11 - Tuple to Object
 https://github.com/type-challenges/type-challenges/issues/4664
+
+### 14 - First of Array
+https://github.com/type-challenges/type-challenges/issues/4665
