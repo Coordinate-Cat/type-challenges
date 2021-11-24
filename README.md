@@ -13,3 +13,6 @@ https://github.com/type-challenges/type-challenges/issues/4654
 
 ### 7 - Readonly
 https://github.com/type-challenges/type-challenges/issues/4655
+
+### 11 - Tuple to Object
+https://github.com/type-challenges/type-challenges/issues/4664
