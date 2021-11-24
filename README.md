@@ -19,3 +19,6 @@ https://github.com/type-challenges/type-challenges/issues/4664
 
 ### 14 - First of Array
 https://github.com/type-challenges/type-challenges/issues/4665
+
+### 18 - Length of Tuple
+https://github.com/type-challenges/type-challenges/issues/4667
