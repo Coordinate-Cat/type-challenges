@@ -1,6 +1,6 @@
 # type-challenges
 Repo : https://github.com/type-challenges/type-challenges  
-Answer : https://github.com/type-challenges/type-challenges/issues/created_by/Coordinate-Cat
+Answer : https://github.com/type-challenges/type-challenges/issues/created_by/Coordinate-Cat  
 TypeScript Deep Dive : https://typescript-jp.gitbook.io/deep-dive/type-system
 
 ## warm-up
